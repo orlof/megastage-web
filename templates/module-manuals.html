@@ -1,0 +1,30 @@
+{% import os %}
+{% import os.path %}
+
+<div class="mid-full">
+    <h3>Hardware Specifications<br></h3>
+    <ul class="left-item">
+        {% for item in [ f for f in os.listdir("static/specs/") if os.path.isfile(os.path.join("static/specs/", f)) ] %}
+        <li><a href="specs/{{item}}">{{item}}<br>
+        </a></li>
+        {% end %}
+    </ul>
+    <br>
+    <h3>RFC: Hardware Specifications<br></h3>
+    <ul class="left-item">
+        {% for item in [ f for f in os.listdir("static/specs/proposals/") if os.path.isfile(os.path.join("static/specs/proposals/", f)) ] %}
+        <li><a href="specs/proposals/{{item}}">{{item}}<br>
+        </a></li>
+        {% end %}
+    </ul>
+    <br>
+    <h3>Original DCPU Hardware Specifications from 0x10c (Copyright 1985 Mojang)<br></h3>
+    <ul class="left-item">
+        {% for item in [ f for f in os.listdir("static/specs/original/") if os.path.isfile(os.path.join("static/specs/original/", f)) ] %}
+        <li><a href="specs/original/{{item}}">{{item}}<br>
+        </a></li>
+        {% end %}
+    </ul>
+    <p class="txt-2">I'll remove these immediately if requested by copyright owner!</p>
+    <br>
+</div>

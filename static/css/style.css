@@ -103,6 +103,12 @@ ul.nav li a:hover {
 	width:939px;
 	float:left;
 }
+.mid-full {
+	margin:0px;
+	padding:20px 0px 20px 0px;
+	width:939px;
+	float:left;
+}
 .mid-left {
 	margin:0px;
 	padding:20px 0px 20px 0px;
@@ -117,7 +123,7 @@ ul.nav li a:hover {
 }
 h1 {
 	margin:0px;
-	padding:10px 30px 10px 40px;
+	padding:10px 30px 10px 30px;
 	font-family:"Times New Roman", Times, serif;
 	font-size:30px;
 	text-decoration:none;
@@ -126,6 +132,11 @@ h1 {
 	line-height:30px;
 }
 p.txt-1 {
+	margin:0px;
+	padding:5px 30px 10px 40px;
+}
+p.txt-2 {
+    color:#ff0000;
 	margin:0px;
 	padding:5px 30px 10px 40px;
 }
@@ -141,7 +152,7 @@ h3 {
 }
 ul.left-item {
 	margin:0px;
-	padding:0px 5px 0px 30px;
+	padding:0px 5px 0px 40px;
 	list-style:none;
 }
 ul.left-item li {

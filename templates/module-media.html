@@ -1,0 +1,9 @@
+{% import os %}
+<div class="mid-full">
+    {% for item in os.listdir("static/images/screen_shots") %}
+    <p class="txt-1">
+        <img src="images/screen_shots/{{item}}" alt="#" border="0" width="640">
+    </p>
+    {% end %}
+    <br>
+</div>
