@@ -36,9 +36,9 @@ class MegastageApp(tornado.web.Application):
 
 
 def main():
-    app = MegastageApp()
+    app = MegastageApp(debug=True)
     http_server = tornado.httpserver.HTTPServer(app)
-    http_server.listen(8080)
+    http_server.listen(80)
     tornado.ioloop.IOLoop.instance().start()
 
 if __name__ == "__main__":
