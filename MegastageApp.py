@@ -18,7 +18,8 @@ class MainHandler(tornado.web.RequestHandler):
 
 
 class MegastageApp(tornado.web.Application):
-    def __init__(self):
+    def __init__(self, debug=False):
+        super(MegastageApp, self).__init__(debug=debug)
         url_patterns = [
             (r"/favicon.ico", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
             (r"/(images/.*)", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
