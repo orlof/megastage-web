@@ -1,8 +1,23 @@
 {% import os %}
 {% import os.path %}
 
-<div class="mid-full">
-    <h3>Hardware Specifications<br></h3>
+<div class="mid-left" xmlns="http://www.w3.org/1999/html">
+    <h3>Chapters</h3>
+    <ul class="left-item">
+        <li><a href="#Lore">Chapter I: Lore of Megastage</a></li>
+        <li><a href="#DCPU">Chapter II: DCPU</a></li>
+        <li><a href="#Tech">(Chapter IX: Technical)</a></li>
+    </ul>
+</div>
+<div class="mid-right">
+    <h1><a id="Lore">Lore of Megastage</a></h1>
+    <p class="txt-3">"We still stare at the Heavens while we should walk among the Stars" -- Uriel Uriel</p>
+    <ul class="left-item">
+        <li><a href="#">Sophont's Guide to Universum</a></li>
+    </ul>
+    <br>
+    <h1><a id="DCPU">DCPU Documentation</a></h1>
+    <h3>Hardware Specifications</h3>
     <ul class="left-item">
         {% for item in [ f for f in os.listdir("static/specs/") if os.path.isfile(os.path.join("static/specs/", f)) ] %}
         <li><a href="specs/{{item}}">{{item}}<br>
@@ -19,12 +34,17 @@
     </ul>
     <br>
     <h3>Original DCPU Hardware Specifications from 0x10c (Copyright 1985 Mojang)<br></h3>
+    <p class="txt-2">I'll remove these immediately if requested by copyright owner!</p>
     <ul class="left-item">
         {% for item in [ f for f in os.listdir("static/specs/original/") if os.path.isfile(os.path.join("static/specs/original/", f)) ] %}
         <li><a href="specs/original/{{item}}">{{item}}<br>
         </a></li>
         {% end %}
     </ul>
-    <p class="txt-2">I'll remove these immediately if requested by copyright owner!</p>
     <br>
+    <p class="txt-2"></p>
+    <h1><a id="Tech">Technical</a></h1>
+    <ul class="left-item">
+        <li><a href="#">Installation Instructions</a></li>
+    </ul>
 </div>

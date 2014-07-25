@@ -112,13 +112,13 @@ ul.nav li a:hover {
 .mid-left {
 	margin:0px;
 	padding:20px 0px 20px 0px;
-	width:236px;
+	width:286px;
 	float:left;
 }
 .mid-right {
 	margin:0px;
 	padding:20px 0px 20px 0px;
-	width:703px;
+	width:653px;
 	float:left;
 }
 h1 {
@@ -126,7 +126,7 @@ h1 {
 	padding:10px 30px 10px 30px;
 	font-family:"Times New Roman", Times, serif;
 	font-size:30px;
-	text-decoration:none;
+	text-decoration:underline;
 	color:#4444aa;
 	font-weight:normal;
 	line-height:30px;
@@ -139,6 +139,12 @@ p.txt-2 {
     color:#ff0000;
 	margin:0px;
 	padding:5px 30px 10px 40px;
+}
+p.txt-3 {
+    color:#9999aa;
+    margin:0px;
+	padding:5px 30px 10px 40px;
+    font-style:italic;
 }
 h3 {
 	margin:0px;
