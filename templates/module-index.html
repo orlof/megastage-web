@@ -6,7 +6,7 @@
         FPS, resource gathering, crafting and ship building.</p>
     <p class="txt-1"> Development is still in very early phase.</p>
     <p class="txt-1">
-        <img src="images/screen_shots/{{ max(os.listdir("static/images/screen_shots")) }}" alt="#" border="0" width="640">
+        <img src="images/screen_shots/{{ max(os.listdir("static/images/screen_shots"), key=lambda ctx: os.path.getctime("static/images/screen_shots/%s" % ctx)) }}" alt="#" border="0" width="640">
     </p>
     <br>
 </div>
