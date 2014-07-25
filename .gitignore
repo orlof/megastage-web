@@ -1,13 +1,3 @@
-classes/
-
-# Package Files #
-Megastage.iml
-megastage.jar
-*.war
-*.ear
+*.pyc
 *~
-.idea/
 
-/build/
-/dist/
-/megastage/
