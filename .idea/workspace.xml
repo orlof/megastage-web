@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a282de4-15c9-4605-bd4f-3561fe58b314" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/files/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MegastageApp.py" afterPath="$PROJECT_DIR$/MegastageApp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/module-download.html" afterPath="$PROJECT_DIR$/templates/module-download.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/files/readme.txt" afterPath="$PROJECT_DIR$/static/files/megastage.zip" />
     </list>
     <ignored path="megastage-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,19 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/files/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="43" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MegastageApp.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MegastageApp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="913" selection-end="913" vertical-scroll-proportion="0.32795697">
+            <state line="27" column="22" selection-start="913" selection-end="913" vertical-scroll-proportion="0.3523316">
               <folding />
             </state>
           </provider>
@@ -552,7 +540,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/files/readme.txt">
+    <entry file="file://$PROJECT_DIR$/static/files/megastage.zip">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="43" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
           <folding />
@@ -561,7 +549,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MegastageApp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="913" selection-end="913" vertical-scroll-proportion="0.32795697">
+        <state line="27" column="22" selection-start="913" selection-end="913" vertical-scroll-proportion="0.3523316">
           <folding />
         </state>
       </provider>
