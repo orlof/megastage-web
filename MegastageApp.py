@@ -25,7 +25,7 @@ class MegastageApp(tornado.web.Application):
             (r"/(images/.*)", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
             (r"/(css/.*)", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
             (r"/(specs/.*)", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
-            (r"/(megastage/.*)", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
+            (r"/(files/.*)", tornado.web.StaticFileHandler, {'path': Settings.STATIC_PATH}),
             (r"/(.*)", MainHandler),
         ]
         settings = {

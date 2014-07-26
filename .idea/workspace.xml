@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a282de4-15c9-4605-bd4f-3561fe58b314" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/files/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/module-contact.html" afterPath="$PROJECT_DIR$/templates/module-contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MegastageApp.py" afterPath="$PROJECT_DIR$/MegastageApp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/module-download.html" afterPath="$PROJECT_DIR$/templates/module-download.html" />
     </list>
     <ignored path="megastage-web.iws" />
@@ -44,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module-manuals.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="module-manuals.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/module-manuals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="1.3837638">
+            <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-31.25">
               <folding />
             </state>
           </provider>
@@ -65,7 +66,25 @@
       <file leaf-file-name="module-download.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/module-download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="32" selection-start="804" selection-end="804" vertical-scroll-proportion="-10.0">
+            <state line="9" column="0" selection-start="402" selection-end="402" vertical-scroll-proportion="-5.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/files/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="43" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MegastageApp.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MegastageApp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="22" selection-start="913" selection-end="913" vertical-scroll-proportion="0.32795697">
               <folding />
             </state>
           </provider>
@@ -92,7 +111,7 @@
       <file leaf-file-name="module-media.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/module-media.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="102" selection-end="213" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="102" selection-end="213" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -111,11 +130,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/templates/template2.html" />
         <option value="$PROJECT_DIR$/static/specs/test.txt" />
         <option value="$PROJECT_DIR$/templates/template.html" />
         <option value="$PROJECT_DIR$/static/specs/original/dcpu.txt" />
-        <option value="$PROJECT_DIR$/MegastageApp.py" />
         <option value="$PROJECT_DIR$/static/specs/original/GenericClock.txt" />
         <option value="$PROJECT_DIR$/static/specs/original/FloppyDrive.txt" />
         <option value="$PROJECT_DIR$/static/specs/original/GenericKeyboard.txt" />
@@ -127,6 +144,8 @@
         <option value="$PROJECT_DIR$/templates/module-manuals.html" />
         <option value="$PROJECT_DIR$/templates/module-contact.html" />
         <option value="$PROJECT_DIR$/templates/module-download.html" />
+        <option value="$PROJECT_DIR$/static/files/readme.txt" />
+        <option value="$PROJECT_DIR$/MegastageApp.py" />
       </list>
     </option>
   </component>
@@ -204,6 +223,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="megastage-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="megastage-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -433,16 +470,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/specs/original/DCPU-16.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="22" selection-end="43" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MegastageApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/specs/original/FloppyDrive.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -490,21 +517,9 @@
         <state line="25" column="0" selection-start="0" selection-end="668" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/module-media.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="102" selection-end="213" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/module-contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/module-download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="32" selection-start="804" selection-end="804" vertical-scroll-proportion="-10.0">
           <folding />
         </state>
       </provider>
@@ -518,7 +533,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/module-manuals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="1.3837638">
+        <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-31.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/module-media.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="102" selection-end="213" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/module-download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="402" selection-end="402" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/files/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="43" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MegastageApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="22" selection-start="913" selection-end="913" vertical-scroll-proportion="0.32795697">
           <folding />
         </state>
       </provider>
