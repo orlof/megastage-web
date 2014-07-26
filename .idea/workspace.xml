@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a282de4-15c9-4605-bd4f-3561fe58b314" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/module-manuals.html" afterPath="$PROJECT_DIR$/templates/module-manuals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/module-contact.html" afterPath="$PROJECT_DIR$/templates/module-contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/module-download.html" afterPath="$PROJECT_DIR$/templates/module-download.html" />
     </list>
     <ignored path="megastage-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +29,7 @@
       <file leaf-file-name="module-index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/module-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -36,7 +38,7 @@
       <file leaf-file-name="template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="292" selection-end="292" vertical-scroll-proportion="-0.625">
+            <state line="8" column="2" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,7 +47,25 @@
       <file leaf-file-name="module-manuals.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/module-manuals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="0.94464946">
+            <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="1.3837638">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module-contact.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/module-contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module-download.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/module-download.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="32" selection-start="804" selection-end="804" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -91,12 +111,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/templates/module-media.html" />
         <option value="$PROJECT_DIR$/templates/template2.html" />
         <option value="$PROJECT_DIR$/static/specs/test.txt" />
         <option value="$PROJECT_DIR$/templates/template.html" />
         <option value="$PROJECT_DIR$/static/specs/original/dcpu.txt" />
-        <option value="$PROJECT_DIR$/templates/module-download.html" />
         <option value="$PROJECT_DIR$/MegastageApp.py" />
         <option value="$PROJECT_DIR$/static/specs/original/GenericClock.txt" />
         <option value="$PROJECT_DIR$/static/specs/original/FloppyDrive.txt" />
@@ -107,6 +125,8 @@
         <option value="$PROJECT_DIR$/templates/module-index.html" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/templates/module-manuals.html" />
+        <option value="$PROJECT_DIR$/templates/module-contact.html" />
+        <option value="$PROJECT_DIR$/templates/module-download.html" />
       </list>
     </option>
   </component>
@@ -224,8 +244,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -343,7 +363,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33603895" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34253246" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -413,19 +433,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tornado/web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2318" column="6" selection-start="94290" selection-end="94290" vertical-scroll-proportion="0.9481865" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/specs/original/DCPU-16.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="21" selection-start="22" selection-end="43" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/module-download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MegastageApp.py">
@@ -463,16 +473,9 @@
         <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.44041452" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/module-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="292" selection-end="292" vertical-scroll-proportion="-0.625">
+        <state line="8" column="2" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -484,9 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/template2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="0" selection-end="668" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="25" column="0" selection-start="0" selection-end="668" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/module-media.html">
@@ -494,9 +495,30 @@
         <state line="6" column="0" selection-start="102" selection-end="213" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/module-contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/module-download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="32" selection-start="804" selection-end="804" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/module-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/module-manuals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="0.94464946">
+        <state line="50" column="0" selection-start="1914" selection-end="1914" vertical-scroll-proportion="1.3837638">
           <folding />
         </state>
       </provider>
