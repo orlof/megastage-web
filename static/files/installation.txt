@@ -1,0 +1,18 @@
+
+=========================
+INSTALLATION INSTRUCTIONS
+=========================
+
+DEVELOPMENT BUILD
+
+    LINUX
+
+        Megastage requires that you have Java 7 JRE installed. Megastage is tested only with Oracle java.
+
+        Download the latest development build from http://www.megastage.org/files/megastage.zip
+
+        Follow these steps:
+          unzip megastage.zip
+          cd megastage
+          ./megastage.sh
+
