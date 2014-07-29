@@ -9,8 +9,7 @@ PROLOGUE
     #MESSAGE BEGIN
 
     "I have found it - The Tapestry of Ages !
-    Here is The Annalist's prologue we were able to decipher from
-    The Ancient writing."
+     We were able to decipher the Annalist's Prologue from The Ancient Writing."
 
     #ATTACHMENT BEGIN
 
@@ -26,23 +25,78 @@ PROLOGUE
     .
     .
 
-    second age begun with the seeds slowly evolving in distant parts of the galaxy
+    second age begun with the seeds slowly evolving in distant corners of the galaxy
     remaining ancients lured in the void of time and space
-    many seeds came of age, but time was wrong
+    many seeds came of age, but it was not the time
 
-    ...until the shadow weakened
+    ...until the shadow fainted
     ...thousands of forms awakened and within the chaos acceded the dawm of the third age
 
 
-    excerpt from the chronicle of ages
+    chronicle of ages according to annalist
     -- uriel uriel
 
+    #ATTACHMENT END
+
+    "Dr Adama was correct! Ancients were among - perhaps they still are? What are The
+     Shadow? We must find more of the chronicle...stop..."
+
+    #MESSAGE END
     #VERIFIED BY CYPHODRON
     -----------------------------------------------------------------------------------------
 
-    This is the message you have received. In fact - this is the message everyone received
-    while it was broadcasted in all frequencies. The central command published the last
-    received transmission from SG1 to prevent the war between the Houses.
+    This is the message you received five hundred stardates ago. In fact - everyone received
+    this message while it was broadcasted in all frequencies. The central command published
+    the last received transmission from SG-1 to prevent the war between The Houses.
 
 1.0 TIMELINE
 
+    1st Age - Realm of The Ancient
+    2nd Age - The Shadow Empire
+    3rd Age - Sophont Wars
+    4th Age - NOW
+        Thousands of sophont states are gone.
+        All that exists is the awakening fleet in Star System M57473
+        Fleet of of ignorant people who wakeup in a world of unknown
+        New civilization that can explore the galactic history and
+        rebuild the realm of their ancestors.
+
+    Unspeakable dangers, unbelievable adventure and unimaginable
+    beauty awaits in the universe.
+
+2.0 ENTITIES
+
+    The Ancients
+
+    Ancient race that ruled the galaxy through the first age.
+    Technology level 20+?
+    Lost the war to The Shadow and disappeared from the known space.
+
+    The Shadow
+
+    Conquered the galaxy from The Ancients and dominated the galaxy at the second age.
+    Technology level 20+?
+    Rule of the Shadow begun to faint, and they have almost disappeared from the galaxy.
+    Rumor is that they are still present in few star systems.
+
+    Seeds > Sophonts > Humans
+
+    Seeds were planted by The Ancient to preserve their culture and knowledge. There were
+    thousands of different creatures - all encoded in the seeds.
+
+    Seeds have built their own civilizations that all reflect some part of The Ancient
+    culture.
+
+    Humans are only one of the seed races.
+
+    SG-1
+
+    First exploration team that M57473 was able to prepare for interstellar travel with
+    unique FTL drives before breaking down to factions.
+
+    SG-1 never reach the mission objective system but instead miss jump to an
+    unknown destination.
+
+    The Houses
+
+    Different factions in M57473.
